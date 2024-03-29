@@ -92,4 +92,3 @@ wardend tx staking delegate $(wardend keys show wallet --bech val -a)  1000000uw
     --chain-id=alfama \
     --fees=500uward
 
-```# Warden-Protocol
